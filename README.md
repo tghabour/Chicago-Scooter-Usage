@@ -21,7 +21,7 @@ Model inter-area e-scooter usage patterns based on Chicago's 2019 pilot grogram 
 
 ## Methodology:
 
-
+![model_design](https://i.loli.net/2020/06/17/XFUs5ong4tJ7Tr6.png)
 
 ## Data Source:
 
