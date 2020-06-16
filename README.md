@@ -10,19 +10,14 @@ Model inter-area e-scooter usage patterns based on Chicago's 2019 pilot grogram 
 
 ## Featured Techniques:
 
-- Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
+* Feature Engineering 
+* Geopandas 
+* Supervised Learning
+  * Logistic Regression
+* Data Visualization
 
-- Feature Engineering 
 
-- Geopandas 
-
-- Supervised Learning
-
-  - Logistic Regression
-
-- Data Visualization
-
-  
 
 ## Methodology:
 
